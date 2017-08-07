@@ -1,5 +1,5 @@
-# angular2-swiper
-Angular 2 Swiper component that wraps [http://idangero.us/swiper](http://idangero.us/swiper)
+# angular4-swiper
+Angular 4 Swiper component that wraps [http://idangero.us/swiper](http://idangero.us/swiper)
 
 # Install
 npm install --save git+https://git@github.com/joezeleny/angular2-swiper-dist.git
